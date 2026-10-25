@@ -2,7 +2,7 @@
 
 Temalarla kişiselleştirilebilen, Pomodoro tekniğini içeren günlük çalışma planı ve yapılacaklar listesi. Görevlerini hobiler, kişisel işler ve çalışma gibi kategorilere ayırıp günlük planını kendi tarzına göre düzenleyebilirsin.
 
-**Canlı demo:** https://imer-coder.github.io/gunluk-plan/
+**Canlı demo:** https://imer-coder.github.io/temal-to-do-list/
 
 ## Özellikler
 
@@ -11,6 +11,7 @@ Temalarla kişiselleştirilebilen, Pomodoro tekniğini içeren günlük çalış
 - **Takvim:** Görevler eklendikleri güne kaydedilir; geçmiş günlere dönüp bakabilir, gelecek günler için plan yapabilirsin. Tamamlanmamış eski görevler tek tıkla bugüne kopyalanır
 - **İlerleme çubuğu:** Seçili günün tamamlanma oranını gösterir
 - **Pomodoro zamanlayıcı:** Odak, kısa mola ve uzun mola süreleri ayarlanabilir; tamamlanan oturumlar seçilen göreve işlenir
+- **Toplam çalışma süresi:** Odak modunda geçen süre gün gün kaydedilir; bugünün, haftanın ve toplam çalışma süresi görünür, takvimde seçilen günün süresi başlıkta yazar
 - **Renk teması seçici:** Klasik pembe-turkuaz ve 10 Pantone renk paleti (Living Coral, Greenery, Rose Quartz & Serenity, Emerald, Tangerine Tango, Honeysuckle, Turquoise, Mimosa, Sand Dollar, Blue Iris)
 - **Sticker kutusu:** Ruh haline göre hazır sticker'lar, sayfa kenarlarına yerleştirme, boyut değiştirme ve kendi sticker'larını yükleme
 - **Washi bant:** Yüksek öncelikli görev kartlarında ekose, puantiyeli veya çiçekli bant
