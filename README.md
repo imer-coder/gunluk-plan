@@ -2,7 +2,7 @@
 
 Temalarla kişiselleştirilebilen, Pomodoro tekniğini içeren günlük çalışma planı ve yapılacaklar listesi. Görevlerini hobiler, kişisel işler ve çalışma gibi kategorilere ayırıp günlük planını kendi tarzına göre düzenleyebilirsin.
 
-**Canlı demo:** https://imer-coder.github.io/temal-to-do-list/
+**Canlı demo:** https://imer-coder.github.io/gunluk-plan/
 
 ## Özellikler
 
